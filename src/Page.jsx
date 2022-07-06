@@ -2,7 +2,7 @@ import Breadcrumbs from './Breadcrumbs';
 const Page = () => {
 	return (
 		<div style={{ padding: 20 }}>
-			<h1>Page</h1>
+			<h1>Breadcrumbs</h1>
 			<Breadcrumbs
 				routes={[
 					{ name: 'Pages', path: '/pages' },
